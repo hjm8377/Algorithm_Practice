@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e9b4e60-66ea-4215-bdfb-02fb8e5f046e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CodingTestPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_11650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_1181.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_1302.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_2231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_2309.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_2711.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_2798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_2846.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_2947.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_3052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_7785.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/BOJ_8958.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/BOJ_10870.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/BOJ_2003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/BOJ_8892.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/SWEA_4835.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/SWEA_4839.py" afterDir="false" />
+    <list default="true" id="1e9b4e60-66ea-4215-bdfb-02fb8e5f046e" name="Changes" comment="6/26">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +71,20 @@
       <option name="presentableId" value="Default" />
       <updated>1719202460688</updated>
     </task>
+    <task id="LOCAL-00001" summary="6/26">
+      <option name="closed" value="true" />
+      <created>1719331779008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719331779008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
