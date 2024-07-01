@@ -21,6 +21,7 @@ def dfs(num_list, N, M):
                 stack.append([n, nums + [num_list[n]], new_visited])
     return ans
 
+
 N, M = map(int, sys.stdin.readline().strip().split())
 num_list = list(map(int, sys.stdin.readline().strip().split()))
 
