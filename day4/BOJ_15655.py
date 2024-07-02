@@ -18,11 +18,15 @@ def dfs(num_list, N, M):
                 new_visited = set(visited)
                 new_visited.add(n)
 
-                stack.append([n, nums + [num_list[n]], new_visited])
+                new_nums = sorted(nums + [num_list[n]])
+                stack.append([n, new_nums, new_visited])
     return ans
 
 
 N, M = map(int, sys.stdin.readline().strip().split())
 num_list = list(map(int, sys.stdin.readline().strip().split()))
 
-print(sorted(dfs(num_list, N, M)))
+for i in sorted(dfs(num_list, N, M)):
+    for j in i:
+        print(j, end=' ')
+    print()
