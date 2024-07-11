@@ -1,3 +1,7 @@
+import sys
+
+
+
 def find(l, r, target):
     cnt = 0
     while l <= r:
@@ -13,6 +17,19 @@ def find(l, r, target):
             l = c
 
     return cnt
+
+
+def binary_search(l, r, target, cnt):
+    c = (l + r) // 2
+    if c == target:
+        return c
+
+    elif c > target:
+        cnt += 1
+        binary_search(c, r, target, cnt)
+    elif c < target:
+        cnt += 1
+        binary_search(l, c, target, cnt)
 
 
 T = int(input())
